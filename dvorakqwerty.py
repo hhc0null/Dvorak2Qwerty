@@ -67,3 +67,4 @@ EXAMPLES:
             stdout.write(d2q(stdin.read()))
         else:
             print "Error!"
+
